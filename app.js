@@ -1,4 +1,4 @@
-document.getElementById('demo').innerHTML = 'Hello Mars'
+document.getElementById('demo').innerHTML = 'Hello World'
 document.getElementById('demo').style.color = 'blue'
 document.getElementById('myPic').style.height = '200px'
 var btn = document.getElementById('btn')
